@@ -8,5 +8,37 @@ html {
 }
 body {
     font-family: 'Actor', 'Rubik';
+    width: 100%;
+    height: auto;
+    font-size: 1.6rem;
+    background: #E5E5E5;
+}
+.main {
+    height: 1024px;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 40px;
+    display: flex;
+}
+.aside-1 {
+    width: 130px;
+    height: 1024px;
+}
+.aside-1-img {
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 25.714282989501953px;
+    width: 30px;
+}
+.aside-1--container {
+    height: 752px;
+    width: 50px;
+    padding-left: 40px;
+    margin-top: 116.29px;
+}    
+.aside-1--container img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 30px;
 
 }
