@@ -94,5 +94,17 @@ body {
     line-height: 36px;
     letter-spacing: 0em;
     color: rgba(38, 29, 86, 1);
+    margin-bottom: 8px;
 
+}
+.prediction-subcontainer-1 p {
+    height: 60px;
+    width: 315px;
+    font-family: Actor;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: rgba(157, 161, 180, 1);
+    margin-bottom: 25px;
 }
