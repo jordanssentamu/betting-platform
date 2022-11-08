@@ -40,5 +40,32 @@ body {
     width: 50px;
     height: 50px;
     margin-bottom: 30px;
+}
+.major {
+    height: 1024px;
+    width: 983px;
+    background: #FAFAFA;
+    border-radius: 40px 0px 0px 40px;
+}
+.major--nav ul {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 50px;
+    padding: 0px;
+    list-style: none;
+    margin-bottom: 9px;
+}
+.major--nav ul li {
+    font-family: Rubik;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: rgba(160, 168, 177, 1);
+    margin-left: 38px;
 
+}
+.major--nav ul li a {
+    text-decoration: none;
+    color: rgba(160, 168, 177, 1);
 }
