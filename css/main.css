@@ -81,6 +81,7 @@ body {
     margin-top: 37px;
     padding-left: 31px;
     padding-top: 70px;
+    display: flex;
 }
 .prediction-subcontainer-1 {
     height: 210px;
@@ -123,6 +124,15 @@ body {
     line-height: 25px;
     letter-spacing: 0em;
     color: rgba(255, 255, 255, 1);
-
-
+}
+.prediction-subcontainer-2 img {
+    position: absolute;
+left: 556px;
+top: 81px;
+border-radius: 25px;
+height: 387px;
+width: 488px;
+border-radius: 25px;
+filter: drop-shadow(0px 2px 8px rgba(202, 205, 219, 0.42));
+object-fit: contain;
 }
