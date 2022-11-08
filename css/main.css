@@ -80,3 +80,7 @@ body {
     border-radius: 25px;
     margin-top: 37px;
 }
+.prediction-subcontainer-1 {
+    height: 210px;
+    width: 370px;
+}
