@@ -69,3 +69,14 @@ body {
     text-decoration: none;
     color: rgba(160, 168, 177, 1);
 }
+.prediction-container {
+    height: 350px;
+    width: 923px;
+    left: 160px;
+    top: 118px;
+    border-radius: 25px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 8px rgba(202, 205, 219, 0.42);
+    border-radius: 25px;
+    margin-top: 37px;
+}
