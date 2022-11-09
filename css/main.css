@@ -74,7 +74,7 @@ body {
     width: 923px;
     left: 160px;
     top: 118px;
-    border-radius: 25px;
+    margin-left: 30px;
     background: #FFFFFF;
     box-shadow: 0px 2px 8px rgba(202, 205, 219, 0.42);
     border-radius: 25px;
@@ -251,6 +251,71 @@ body {
     box-shadow: 0px 2px 8px rgba(202, 205, 219, 0.42);
     border-radius: 10px;
     padding: 14px 23px;
+    display: flex;
+    justify-content: space-between;
+}
+.match-time {
+    height: 22px;
+    width: 41px;
+    font-family: Rubik;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: rgba(202, 206, 211, 1);
+}
+.match-status {
+    height: 15px;
+    width: 24px;
+    font-family: Rubik;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FF5959;
+    margin-top: 3px;
+}
+.team-names {
+    height: 22px;
+    /* width: 59px; */
+    font-family: Rubik;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #261D56;
+}
+.leagues-schedule-subcontainer img {
+    height: 16.135770797729492px;
+    width: 12px;
+    object-fit: contain;
+    margin-top: 3px;
+
+}
+.goal-scored {
+    height: 15px;
+    width: 24px;
+    font-family: Rubik;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    margin-top: 3px;
+}
+.win-chances {
+    height: 15px;
+    width: 24px;
+    font-family: Rubik;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #CACED3;
+    margin-top: 3px;
 }
 
  
