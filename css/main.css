@@ -137,9 +137,14 @@ body {
     object-fit: contain;
     
 }
+/*  football-leagues-sector*/
+.football-leagues {
+    display: flex;
+}
 .football-leagues-container-1 {
     height: 465px;
     width: 333px;
+    margin-right: 30px;
 }
 .football-leagues {
     margin-top: 42px;
@@ -210,5 +215,8 @@ body {
     text-align: center;
     color: rgba(157, 161, 180, 1);
     margin-top: 10px;
-
+}
+.football-leagues-schedule {
+    height: 451px;
+    width: 560px;
 }
