@@ -219,4 +219,28 @@ body {
 .football-leagues-schedule {
     height: 451px;
     width: 560px;
+    margin-top: 42px;
 }
+.leagues-schedule-list {
+    display: flex;
+    list-style: none;
+    height: 22px;
+    width: 436px;
+    justify-content: space-between;
+    margin-bottom: 19px;
+}
+.leagues-schedule-list li {
+    font-family: Rubik;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+}
+.leagues-schedule-list li a {
+    text-decoration: none;
+    color: rgba(160, 168, 177, 1);
+}
+.leagues-schedule-list li .matches {
+    color: rgba(38, 29, 86, 1);
+}
+ 
