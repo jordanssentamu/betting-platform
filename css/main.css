@@ -127,12 +127,12 @@ body {
 }
 .prediction-subcontainer-2 img {
     position: absolute;
-left: 556px;
-top: 81px;
-border-radius: 25px;
-height: 387px;
-width: 488px;
-border-radius: 25px;
-filter: drop-shadow(0px 2px 8px rgba(202, 205, 219, 0.42));
-object-fit: contain;
+    left: 556px;
+    top: 81px;
+    border-radius: 25px;
+    height: 387px;
+    width: 488px;
+    border-radius: 25px;
+    filter: drop-shadow(0px 2px 8px rgba(202, 205, 219, 0.42));
+    object-fit: contain;
 }
