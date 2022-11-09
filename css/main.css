@@ -431,3 +431,12 @@ body {
     color: #261D56;
     margin-bottom: 17px;
 }
+.table-points-team-container {
+    display: flex;
+    justify-content: space-between;
+}
+.table-points-team-container img{
+    height: 56px;
+    width: 48px;
+    object-fit: contain;
+}
