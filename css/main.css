@@ -417,3 +417,8 @@ body {
    object-fit: contain;
     filter: drop-shadow(0px 2px 8px rgba(202, 205, 219, 0.42));
 }
+/* profile-table-points */
+.profile-table-points {
+    margin: 0px 20px 25.21px 19px;
+
+}
