@@ -340,14 +340,31 @@ body {
     width: 326px; 
 }
 .betting-profile-details {
-    margin: 50px 25px 40px 19.6px;
+    margin: 50px 8px 40px 19.6px;
     height: 91px;
      /* width: 281.4033203125px;  */
+}
+.betting-profile-subdetails-1 {
+    display: flex;
+    justify-content: space-between;
 }
 .profile-subdetails-1i {
     height: 40px;
     width: 163.4033203125px;
     display: flex;
-    justify-content: space-between;
+    
+}
+.profile-subdetails-1i img {
+    margin-right: 10px;
+}
+.profile-subdetails-1i p {
+    font-family: Rubik;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(38, 29, 86, 1);
+    margin-top: 5px;
 }
  
