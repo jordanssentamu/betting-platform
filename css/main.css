@@ -147,7 +147,7 @@ body {
     margin-right: 30px;
 }
 .football-leagues {
-    margin-top: 42px;
+    /* margin-top: 42px; */
     margin-left: 30px;
 }
 .football-leagues-container-1 {
@@ -159,6 +159,7 @@ body {
     letter-spacing: 0em;
     color: rgba(38, 29, 86, 1);
     margin-bottom: 20px;
+    margin-top: 41px;
 }
 .football-leagues-container-1-1 {
     height: 423px;
@@ -268,7 +269,7 @@ body {
 .match-status,
  .match-status-1 {
     height: 15px;
-    width: 42px;
+    width: 57px;
     font-family: Rubik;
     font-size: 12px;
     font-weight: 500;
