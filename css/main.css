@@ -393,7 +393,7 @@ body {
 }
 .betting-profile-following {
     margin-left: 11px;
-    margin-right: 20.25px;
+    margin-right: 3.25px;
     margin-bottom: 40.25px;
 }
 .betting-profile-following h3 {
@@ -405,4 +405,15 @@ body {
     text-align: left;
     color: #261D56;
     margin-bottom: 19px;
+}
+.profile-following-img-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20.25px;
+}
+.profile-following-img-container img {
+    height: 57.75px;
+    width: 54.75px;
+   object-fit: contain;
+    filter: drop-shadow(0px 2px 8px rgba(202, 205, 219, 0.42));
 }
