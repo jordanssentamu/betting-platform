@@ -483,7 +483,7 @@ body {
     text-align: left;
     color: #261D56;
 }
-.teams-score-2-text {
+.champion-teams-score-text {
     font-family: Rubik;
     font-size: 24px;
     font-weight: 500;
@@ -492,7 +492,7 @@ body {
     text-align: left;
     color: #000000;
 }
-.teams-score-2-text-span {
+.teams-score-text-span {
     font-family: Rubik;
     font-size: 12px;
     font-weight: 500;
