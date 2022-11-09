@@ -391,3 +391,18 @@ body {
     text-align: right;
     color: #989CAD;
 }
+.betting-profile-following {
+    margin-left: 11px;
+    margin-right: 20.25px;
+    margin-bottom: 40.25px;
+}
+.betting-profile-following h3 {
+    font-family: Rubik;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #261D56;
+    margin-bottom: 19px;
+}
