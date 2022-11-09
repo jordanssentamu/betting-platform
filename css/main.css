@@ -46,6 +46,7 @@ body {
     width: 983px;
     background: #FAFAFA;
     border-radius: 40px 0px 0px 40px;
+    margin-right: 31px;
 }
 .major--nav ul {
     display: flex;
@@ -325,6 +326,11 @@ body {
     text-align: center;
     color: #CACED3;
     margin-top: 3px;
+}
+/* betting-profile */ 
+.betting-profile {
+    height: 1024px;
+    /* width: 326px; */
 }
 
  
