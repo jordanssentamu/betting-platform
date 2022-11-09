@@ -420,5 +420,14 @@ body {
 /* profile-table-points */
 .profile-table-points {
     margin: 0px 20px 25.21px 19px;
-
+}
+.profile-table-points h3 {
+    font-family: Rubik;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #261D56;
+    margin-bottom: 17px;
 }
