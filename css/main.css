@@ -169,3 +169,8 @@ body {
     height: 40.345252990722656px;
     width: 273px;
 }
+.subcontainer-1-1i-img {
+    height: 40.345252990722656px;
+    width: 40px;
+    object-fit: contain;
+}
