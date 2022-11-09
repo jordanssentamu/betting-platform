@@ -243,4 +243,14 @@ body {
 .leagues-schedule-list li .matches {
     color: rgba(38, 29, 86, 1);
 }
+/*leagues-schedule-subcontainer  */
+.leagues-schedule-subcontainer {
+    height: 50px;
+    width: 560px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 8px rgba(202, 205, 219, 0.42);
+    border-radius: 10px;
+    padding: 14px 23px;
+}
+
  
