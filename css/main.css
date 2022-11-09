@@ -21,14 +21,22 @@ body {
     display: flex;
 }
 .aside-1 {
-    width: 130px;
+    width: 9.1%;
     height: 1024px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: -46px;;
 }
 .aside-1-img {
-    margin-left: 50px;
-    margin-top: 50px;
+    /* margin-left: 50px; */
+    margin-top: -12px;
     height: 25.714282989501953px;
     width: 30px;
+    position: relative;
+    left: 40px;
 }
 .aside-1--container {
     height: 752px;
@@ -40,13 +48,14 @@ body {
     width: 50px;
     height: 50px;
     margin-bottom: 30px;
+    margin-right: 40px;
 }
 .major {
     height: 1024px;
     width: 983px;
     background: #FAFAFA;
     border-radius: 40px 0px 0px 40px;
-    margin-right: 31px;
+    /* margin-right: 31px; */
 }
 .major--nav ul {
     display: flex;
@@ -72,9 +81,7 @@ body {
 }
 .prediction-container {
     height: 350px;
-    width: 923px;
-    left: 160px;
-    top: 118px;
+    width: 879px;
     margin-left: 30px;
     background: #FFFFFF;
     box-shadow: 0px 2px 8px rgba(202, 205, 219, 0.42);
@@ -128,7 +135,7 @@ body {
 }
 .prediction-subcontainer-2 img {
     position: absolute;
-    left: 556px;
+    left: 504px;
     top: 81px;
     border-radius: 25px;
     height: 387px;
@@ -220,14 +227,14 @@ body {
 }
 .football-leagues-schedule {
     height: 451px;
-    width: 560px;
+    width: 542px;
     margin-top: 42px;
 }
 .leagues-schedule-list {
     display: flex;
     list-style: none;
     height: 22px;
-    width: 436px;
+    width: 402px;
     justify-content: space-between;
     margin-bottom: 19px;
 }
@@ -248,7 +255,7 @@ body {
 /*leagues-schedule-subcontainer  */
 .leagues-schedule-subcontainer {
     height: 50px;
-    width: 560px;
+    width: 515px;
     background: #FFFFFF;
     box-shadow: 0px 2px 8px rgba(202, 205, 219, 0.42);
     border-radius: 10px;
@@ -330,7 +337,17 @@ body {
 /* betting-profile */ 
 .betting-profile {
     height: 1024px;
-    /* width: 326px; */
+    width: 326px; 
 }
-
+.betting-profile-details {
+    margin: 50px 25px 40px 19.6px;
+    height: 91px;
+     /* width: 281.4033203125px;  */
+}
+.profile-subdetails-1i {
+    height: 40px;
+    width: 163.4033203125px;
+    display: flex;
+    justify-content: space-between;
+}
  
