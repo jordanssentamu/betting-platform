@@ -170,6 +170,7 @@ body {
     width: 273px;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 32.65px;
 }
 .leagues-subcontainer-1-1i{
     display: flex;
@@ -182,7 +183,7 @@ body {
 }
 .subcontainer-1-1i-text {
     height: 40px;
-    width: 99px;
+    /* width: 99px; */
     font-family: Rubik;
     font-size: 18px;
     font-weight: 500;
