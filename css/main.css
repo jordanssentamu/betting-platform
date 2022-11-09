@@ -7,7 +7,7 @@ html {
     font-size: 62.5%;
 }
 body {
-    font-family: 'Actor', 'Rubik';
+    font-family: 'Actor', 'Rubik' , 'Roboto';
     width: 100%;
     height: auto;
     font-size: 1.6rem;
@@ -168,6 +168,7 @@ body {
 .leagues-subcontainer-1-1 {
     height: 40.345252990722656px;
     width: 273px;
+    display: flex;
 }
 .leagues-subcontainer-1-1i{
     display: flex;
@@ -195,4 +196,18 @@ body {
     line-height: 20px;
     letter-spacing: 0em;
     color: rgba(157, 161, 180, 1);
+}
+.leagues-subcontainer-1-1-text {
+    height: 15px;
+width: 19px;
+left: 444px;
+top: 594px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: center;
+
 }
