@@ -169,8 +169,25 @@ body {
     height: 40.345252990722656px;
     width: 273px;
 }
+.leagues-subcontainer-1-1i{
+    display: flex;
+}
 .subcontainer-1-1i-img {
     height: 40.345252990722656px;
     width: 40px;
     object-fit: contain;
+    margin-right: 15px;
+}
+.subcontainer-1-1i-text {
+    height: 40px;
+    width: 99px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #261D56;
+}   
+.subcontainer-1-1i-text-span {
+    color: rgba(157, 161, 180, 1);
 }
