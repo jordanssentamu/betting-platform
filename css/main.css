@@ -253,6 +253,7 @@ body {
     padding: 14px 23px;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 22px;
 }
 .match-time {
     height: 22px;
@@ -264,7 +265,8 @@ body {
     letter-spacing: 0em;
     color: rgba(202, 206, 211, 1);
 }
-.match-status {
+.match-status,
+ .match-status-1 {
     height: 15px;
     width: 24px;
     font-family: Rubik;
@@ -273,12 +275,18 @@ body {
     line-height: 15px;
     letter-spacing: 0em;
     text-align: center;
-    color: #FF5959;
     margin-top: 3px;
+}
+.match-status {
+    color: #FF5959;
+
+}
+.match-status-1 {
+    color: #CACED3;
 }
 .team-names {
     height: 22px;
-    /* width: 59px; */
+     width: 68px; 
     font-family: Rubik;
     font-size: 12px;
     font-weight: 500;
